@@ -13,3 +13,5 @@
 [TTSky25A](https://htfab.github.io/ttsky25a-chip-imaging/#url=data/ttsky25a.json)
 
 [TTSky25B](https://htfab.github.io/ttsky25b-chip-imaging/#url=data/ttsky25b.json)
+
+[TTSky26A](https://htfab.github.io/ttsky26a-chip-imaging/#url=data/ttsky26a.json)
